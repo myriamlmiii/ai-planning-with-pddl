@@ -1,4 +1,4 @@
-# 🤖 AI Planning with PDDL — Intelligent Agents That Think Before They Act
+#  AI Planning with PDDL : Intelligent Agents That Think Before They Act
 
 [![Java](https://img.shields.io/badge/Java-11+-red?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![PDDL](https://img.shields.io/badge/PDDL4J-AI%20Planning%20Library-blue)](http://pddl4j.imag.fr/)
